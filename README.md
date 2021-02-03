@@ -1,1 +1,3 @@
-# Sticky-Note-Widget
+# Sticky Note Widget
+
+Get the Sticky Note Widget for Weatherwalls!
